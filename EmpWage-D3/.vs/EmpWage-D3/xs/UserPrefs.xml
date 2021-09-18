@@ -1,8 +1,19 @@
 ﻿<Properties StartupConfiguration="{A65D98A5-E7C4-4A62-91EF-1371E7B2EED5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="EmpWage-D3/Program.cs">
     <Files>
-      <File FileName="EmpWage-D3/Program.cs" Line="9" Column="37" />
+      <File FileName="EmpWage-D3/Program.cs" Line="10" Column="17" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmpWage-D3" expanded="True">
+            <Node name="EmpWage-D3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EmpWage-D3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EmpWage-D3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
