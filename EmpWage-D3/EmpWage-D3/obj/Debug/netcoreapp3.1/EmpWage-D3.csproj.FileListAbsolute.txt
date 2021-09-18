@@ -1,0 +1,13 @@
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/bin/Debug/netcoreapp3.1/EmpWage-D3.deps.json
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/bin/Debug/netcoreapp3.1/EmpWage-D3.runtimeconfig.json
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/bin/Debug/netcoreapp3.1/EmpWage-D3.runtimeconfig.dev.json
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/bin/Debug/netcoreapp3.1/EmpWage-D3.dll
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/bin/Debug/netcoreapp3.1/EmpWage-D3.pdb
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/obj/Debug/netcoreapp3.1/EmpWage-D3.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/obj/Debug/netcoreapp3.1/EmpWage-D3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/obj/Debug/netcoreapp3.1/EmpWage-D3.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/obj/Debug/netcoreapp3.1/EmpWage-D3.AssemblyInfo.cs
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/obj/Debug/netcoreapp3.1/EmpWage-D3.csproj.CoreCompileInputs.cache
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/obj/Debug/netcoreapp3.1/EmpWage-D3.dll
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/obj/Debug/netcoreapp3.1/EmpWage-D3.pdb
+/Users/ramchandran/Desktop/AssignmentDay3/EmpWage-D3/EmpWage-D3/obj/Debug/netcoreapp3.1/EmpWage-D3.genruntimeconfig.cache
