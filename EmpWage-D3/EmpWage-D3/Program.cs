@@ -2,43 +2,37 @@ using System;
 
 namespace EmpWage_D3
 {
-    class Program
-    {
-        private static object elseif;
-
-        static void Main(string[] args)
+        class Program
         {
-            Console.WriteLine("Welcome Employee's");
-            int IS_FULL_TIME = 2 ;
-            int IS_PART_TIME = 1 ;
-            int EMP_RATE_PER_HOUR = 20;
-           
-
-
-            int empHrs = 0;
-            int empWage = 0;
-
-            Random random = new Random(); 
-
-            int empCheck = random.Next(0, 3);
-            if (empCheck == IS_PART_TIME)
+            static void Main(string[] args)
             {
-                Console.WriteLine("The Part-time-wage is ");
-                empHrs = 4;
-            }
-            else if (empCheck == IS_FULL_TIME)
-            {
-                Console.WriteLine("The Full-Time-Wage is ");
-                empHrs = 8;
-            }
-            else
-            {
-                empHrs = 0;
-                Console.WriteLine("Employee is absent"); ;
-            }
+                int per_Hour_Wage = 100;
+                int HOURS_WORKED = 8;
+                int PART_TIME_HOURS = 4;
+                int DAILYWAGES = 0;
+                Random rand = new Random();
+                int WorkStatus = rand.Next(0, 3);
 
-            empWage = empHrs * EMP_RATE_PER_HOUR;
-            Console.WriteLine("Emp Wage: " +empWage);
+                switch (WorkStatus)
+                {
+                    case 0:
+                        Console.WriteLine("Empoyee is Absent");
+                        break;
+                    case 1:
+                        Console.WriteLine("Empoyee is Present");
+                        DAILYWAGES = per_Hour_Wage * HOURS_WORKED;
+                        break;
+                    case 2:
+                        Console.WriteLine("Employee is working is part time");
+                        DAILYWAGES = per_Hour_Wage * PART_TIME_HOURS;
+                        break;
+
+                    default:
+                        Console.WriteLine("employee is out of range");
+                        break;
+                }
+
+                Console.WriteLine("The Employee Wage is " + DAILYWAGES);
+            }
         }
     }
-}
